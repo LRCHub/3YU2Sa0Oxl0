@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "橙鳴る",
+  "base_artist": "chouchou merged syrups.",
+  "createdAt": "2025-12-18T08:51:02.731141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "橙鳴る",
+      "artist": "chouchou merged syrups.",
+      "has_synced": false,
+      "path": "select/01_橙鳴る_chouchou_merged_syrups..txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "橙鳴る",
+      "artist": "chouchou merged syrups.",
+      "has_synced": false,
+      "path": "select/pl_01_橙鳴る_chouchou_merged_syrups..txt"
+    }
+  ]
+}
